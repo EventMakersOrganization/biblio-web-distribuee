@@ -59,7 +59,8 @@ Le projet adopte une architecture modulaire orientée services, garantissant :
 - Service Livre
 - Service Emprunt
 - Service Réservation
-- Service Avis & Notation
+- Service  Activités & Inscriptions
+- Service Avis 
 
 Les échanges entre les modules se font via des API REST.
 
