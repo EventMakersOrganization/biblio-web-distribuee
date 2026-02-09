@@ -1,7 +1,7 @@
 # 📚 Système de Gestion de Bibliothèque Universitaire
 
 ## 📖 Présentation du projet
-Le Système de Gestion de Bibliothèque Universitaire** est une application informatique visant à automatiser et optimiser la gestion des bibliothèques universitaires.  
+Le Système de Gestion de Bibliothèque Universitaire est une application informatique visant à automatiser et optimiser la gestion des bibliothèques universitaires.  
 Il permet une meilleure organisation des ressources documentaires et facilite l’accès des étudiants et du personnel aux services de la bibliothèque.
 
 Ce système centralise la gestion des livres, des emprunts, des réservations ainsi que des avis et notations, tout en assurant une expérience utilisateur fluide et sécurisée.
@@ -36,15 +36,32 @@ Ce système centralise la gestion des livres, des emprunts, des réservations ai
 
 ---
 
-## ⚙️ Fonctionnalités principales
-- Authentification et gestion des rôles (Étudiant / Bibliothécaire)
-- Gestion du catalogue des livres
-- Système d’emprunt et de retour
-- Gestion des réservations
-- Système d’avis et de notation des livres
-- Calcul automatique de la note moyenne d’un livre
-- Recherche et filtrage des livres
-- Gestion des utilisateurs
+⚙️ Fonctionnalités principales
+
+*Authentification et gestion des rôles
+Inscription, connexion sécurisée et gestion des profils selon le rôle (Étudiant / Bibliothécaire).
+
+*Gestion des utilisateurs
+Création, modification, suppression et consultation des comptes utilisateurs.
+
+*Gestion du catalogue des livres
+Ajout, modification, suppression et consultation des livres avec recherche et filtrage avancés.
+
+*Système d’emprunt et de retour
+Emprunt de livres, gestion des dates de retour et suivi des emprunts en cours.
+
+*Gestion des réservations
+Réservation des livres indisponibles et suivi de l’état des réservations.
+
+*Gestion des activités et des inscriptions
+Organisation d’activités liées à la bibliothèque (événements, ateliers, conférences) et gestion des inscriptions des étudiants.
+
+*Système d’avis et de notation des livres
+Publication, modification et suppression des avis par les utilisateurs, avec calcul automatique de la note moyenne pour chaque livre.
+
+*Recherche et filtrage
+Recherche de livres, d’activités et de contenus selon différents critères (titre, auteur, catégorie, disponibilité).
+
 
 ---
 
