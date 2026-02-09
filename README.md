@@ -38,28 +38,28 @@ Ce système centralise la gestion des livres, des emprunts, des réservations ai
 
 ⚙️ Fonctionnalités principales
 
-*Authentification et gestion des rôles
+*Authentification et gestion des rôles:
 Inscription, connexion sécurisée et gestion des profils selon le rôle (Étudiant / Bibliothécaire).
 
-*Gestion des utilisateurs
+*Gestion des utilisateurs:
 Création, modification, suppression et consultation des comptes utilisateurs.
 
-*Gestion du catalogue des livres
+*Gestion du catalogue des livres:
 Ajout, modification, suppression et consultation des livres avec recherche et filtrage avancés.
 
-*Système d’emprunt et de retour
+*Système d’emprunt et de retour:
 Emprunt de livres, gestion des dates de retour et suivi des emprunts en cours.
 
-*Gestion des réservations
+*Gestion des réservations:
 Réservation des livres indisponibles et suivi de l’état des réservations.
 
-*Gestion des activités et des inscriptions
+*Gestion des activités et des inscriptions:
 Organisation d’activités liées à la bibliothèque (événements, ateliers, conférences) et gestion des inscriptions des étudiants.
 
-*Système d’avis et de notation des livres
+*Système d’avis et de notation des livres:
 Publication, modification et suppression des avis par les utilisateurs, avec calcul automatique de la note moyenne pour chaque livre.
 
-*Recherche et filtrage
+*Recherche et filtrage:
 Recherche de livres, d’activités et de contenus selon différents critères (titre, auteur, catégorie, disponibilité).
 
 
