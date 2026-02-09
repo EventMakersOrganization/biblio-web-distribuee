@@ -57,7 +57,8 @@ Le projet adopte une architecture modulaire orientée services, garantissant :
 ### Modules principaux :
 - Service Utilisateur
 - Service Livre
-- Service Emprunt & Réservation
+- Service Emprunt
+- Service Réservation
 - Service Avis & Notation
 
 Les échanges entre les modules se font via des API REST.
